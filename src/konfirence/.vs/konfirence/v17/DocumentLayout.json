@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\pages\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\classes\\displayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\classes\\displayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayEvent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\Classes\\DisplayEvent.cs",
+              "RelativeDocumentMoniker": "konfirence\\Classes\\DisplayEvent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\Classes\\DisplayEvent.cs",
+              "RelativeToolTip": "konfirence\\Classes\\DisplayEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:40:38.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\Pages\\StartPage.xaml.cs",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\StartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\Pages\\StartPage.xaml.cs",
+              "RelativeToolTip": "konfirence\\Pages\\StartPage.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAWwCoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:21:55.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\Pages\\StartPage.xaml",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\StartPage.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\Pages\\StartPage.xaml",
+              "RelativeToolTip": "konfirence\\Pages\\StartPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T08:03:07.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "konfirence\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\Classes\\Manager.cs",
+              "RelativeToolTip": "konfirence\\Classes\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:01:52.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "konfirence\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\MainWindow.xaml",
+              "RelativeToolTip": "konfirence\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T07:58:23.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "konfirence\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\konfirence\\konfirence\\MainWindow.xaml.cs",
+              "RelativeToolTip": "konfirence\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:58:21.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

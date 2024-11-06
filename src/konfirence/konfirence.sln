@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konfirence", "konfirence\konfirence.csproj", "{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D69EE06-1BE5-4055-B658-DB885C9BC521}
+	EndGlobalSection
+EndGlobal
