@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Андрей\Desktop\Организация_конференций_2023\konfirence\konfirence\obj\Debug\
+C:\Users\Андрей\Desktop\Организация_конференций_2023\Вариант 2\konfirence\konfirence\obj\Debug\
 konfirence
 none
 false
 DEBUG;TRACE
-C:\Users\Андрей\Desktop\Организация_конференций_2023\konfirence\konfirence\App.xaml
-2-2106866034
+C:\Users\Андрей\Desktop\Организация_конференций_2023\Вариант 2\konfirence\konfirence\App.xaml
+7-1533055117
 101767940226
-221217451944
-18-5460991
-MainWindow.xaml;Pages\StartPage.xaml;
+28-1921527840
+18-1274452191
+MainWindow.xaml;Pages\AutorizePage.xaml;Pages\PageJury.xaml;Pages\PageModarator.xaml;Pages\PageOrganize.xaml;Pages\PageUser.xaml;Pages\StartPage.xaml;
 
 False
 

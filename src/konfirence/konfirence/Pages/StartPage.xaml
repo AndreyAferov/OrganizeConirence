@@ -11,32 +11,46 @@
 
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="70"></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="70"/>
+            <RowDefinition/>
+            <RowDefinition Height="70"/>
         </Grid.RowDefinitions>
 
-        <ListView Grid.Row="1" x:Name="Listing">
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                    <StackPanel Orientation="Horizontal" Margin="5">
-                        <Image Source="{Binding ImagePath}" Width="100" Height="100" Margin="5"/>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Left" 
+                    VerticalAlignment="Center" Margin="10">
+            <ComboBox x:Name="DirectionComboBox" Width="200" Margin="10"
+          SelectionChanged="DirectionComboBox_SelectionChanged" DisplayMemberPath="Name"/>
+            <DatePicker x:Name="DatePicker" Width="200" 
+                        SelectedDateChanged="DatePicker_SelectedDateChanged" 
+                        SelectedDateFormat="Short"/>
+        </StackPanel>
+        
+            <ListView Grid.Row="1" x:Name="Listing" Margin="10">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Grid.Column="0" Source="{Binding ImagePath}" Width="100" Height="100" Margin="5"/>
+
+                        <StackPanel Grid.Column="1" Orientation="Vertical" Margin="5">
                         <TextBlock Text="{Binding EventTopic}" FontWeight="Bold" FontSize="14"/>
                         <!-- Название -->
                         <TextBlock Text="{Binding EventDirection}" FontSize="12" Margin="0,5,0,0"/>
                         <!-- Направление -->
                         <TextBlock Text="{Binding Date, StringFormat={}{0:yyyy-MM-dd}}" FontSize="12"/>
                         <!-- Дата -->
-                    </StackPanel>
-                </DataTemplate>
-        </ListView.ItemTemplate>
-        </ListView>
-        <ListView>
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    
+                    </StackPanel>   
+                    </Grid>
+
                 </DataTemplate>
             </ListView.ItemTemplate>
-        </ListView>
+        </ListView>   
+        <!-- Кнопка авторизации -->
+        <Button x:Name="AutorizeButton" Click="AutorizeButton_Click" Grid.Row="2" Content="Авторизация" 
+                HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="200"/>
     </Grid>
 </Page>

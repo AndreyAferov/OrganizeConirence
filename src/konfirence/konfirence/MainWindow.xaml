@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:konfirence"
         mc:Ignorable="d"
-        Title="MainWindow" Height="650" Width="1000">
+        Title="ИС - организация конференций" Height="650" Width="1000">
     <Grid>
-        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"></Frame>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Label FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Организация конференций"></Label>
+        </Grid>
+        <Frame Grid.Row="1" x:Name="MainFrame" NavigationUIVisibility="Hidden"></Frame>
     </Grid>
 </Window>

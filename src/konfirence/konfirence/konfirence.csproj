@@ -72,6 +72,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Classes\Captha.cs" />
     <Compile Include="Classes\DisplayEvent.cs" />
     <Compile Include="Classes\Manager.cs" />
     <Compile Include="Data\Activity.cs">
@@ -126,12 +127,47 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\AutorizePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\PageJury.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\PageModarator.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\PageOrganize.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\PageUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\StartPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pages\AutorizePage.xaml.cs">
+      <DependentUpon>AutorizePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageJury.xaml.cs">
+      <DependentUpon>PageJury.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageModarator.xaml.cs">
+      <DependentUpon>PageModarator.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageOrganize.xaml.cs">
+      <DependentUpon>PageOrganize.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageUser.xaml.cs">
+      <DependentUpon>PageUser.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\StartPage.xaml.cs">
       <DependentUpon>StartPage.xaml</DependentUpon>
     </Compile>
@@ -171,8 +207,8 @@
   <ItemGroup>
     <Content Include="Data\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Model1.Context.cs</LastGenOutput>
       <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
     </Content>
     <Content Include="Data\Model1.tt">
       <Generator>TextTemplatingFileGenerator</Generator>

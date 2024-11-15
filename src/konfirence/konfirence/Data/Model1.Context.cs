@@ -24,7 +24,6 @@ namespace konfirence.Data
             }
             return _context;
         }
-        
         public KonfirenceEntities()
             : base("name=KonfirenceEntities")
         {
