@@ -5,7 +5,7 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:konfirence.Pages"
       mc:Ignorable="d" 
-      d:DesignHeight="650" d:DesignWidth="1000"
+      d:DesignHeight="800" d:DesignWidth="1000"
       Title="Registration"
       Background="White">
 
@@ -51,40 +51,40 @@
             <Label Content="Направление:" Grid.Row="6" Grid.Column="0" 
                    VerticalAlignment="Top" HorizontalAlignment="Left" Margin="43,7,0,0" RenderTransformOrigin="0.659,0.442"/>
             <Label Content="Мероприятие:" Grid.Row="7" Grid.Column="0" 
-                   VerticalAlignment="Top" HorizontalAlignment="Right" Grid.ColumnSpan="2" Margin="0,15,288,0"></Label>
+                   VerticalAlignment="Top" HorizontalAlignment="Right" Grid.ColumnSpan="2" Margin="0,26,289,0"></Label>
 
-            <TextBox x:Name="IdNumberTB" Grid.Row="0" Grid.Column="1" 
+            <TextBox x:Name="IdNumber" Grid.Row="0" Grid.Column="1" 
                      IsEnabled="False" VerticalContentAlignment="Center"></TextBox>
-            <TextBox x:Name="FioTB" Grid.Row="1" Grid.Column="1" 
+            <TextBox x:Name="Fio" Grid.Row="1" Grid.Column="1" 
                      VerticalContentAlignment="Center"></TextBox>
-            <ComboBox x:Name="SexCB" DisplayMemberPath="Gender1" 
+            <ComboBox x:Name="Gender" DisplayMemberPath="Gender1" 
                       Grid.Row="2" Grid.Column="1" VerticalContentAlignment="Center" Height="30"></ComboBox>
-            <ComboBox x:Name="RoleCB" DisplayMemberPath="Name" 
+            <ComboBox x:Name="Role" DisplayMemberPath="Name" 
                       Grid.Row="3" Grid.Column="1" VerticalContentAlignment="Center" Height="30"></ComboBox>
-            <TextBox x:Name="EmailTB" Grid.Row="4" Grid.Column="1" 
+            <TextBox x:Name="Email" Grid.Row="4" Grid.Column="1" 
                      VerticalContentAlignment="Center"></TextBox>
-            <TextBox x:Name="PhoneTB" Grid.Row="5" Grid.Column="1" 
+            <TextBox x:Name="NumberPhone" Grid.Row="5" Grid.Column="1" 
                      VerticalContentAlignment="Center" ></TextBox>
-            <TextBox x:Name="DirectionTB" Grid.Row="6" 
+            <TextBox x:Name="Direction" Grid.Row="6" 
                      Grid.Column="1"
                      VerticalContentAlignment="Center" 
-                     TextChanged="DirectionTB_TextChanged"
+                     TextChanged="Direction_TextChanged"
                      GotKeyboardFocus="DirectionTB_GotKeyboardFocus" 
                      LostKeyboardFocus="DirectionTB_LostKeyboardFocus" Height="30" Margin="70,10,70,40"/>
             <CheckBox x:Name="AttachToEvent" Content="Прикрепить к мероприятию"
                       Grid.Column="1" Grid.Row="7" 
                       HorizontalAlignment="Center" 
-                      VerticalAlignment="Center" Unchecked="AttachToEvent_Unchecked"
+                      VerticalAlignment="Top" Unchecked="AttachToEvent_Unchecked"
                       Checked="AttachToEvent_Checked" 
-                      VerticalContentAlignment="Center" Width="184"/>
+                      VerticalContentAlignment="Center" Width="184" Margin="0,21,0,0"/>
             <ComboBox x:Name="EventCB" DisplayMemberPath="Topic" 
                       Grid.Row="8" Grid.Column="1" 
                       VerticalContentAlignment="Center"
-                      IsEnabled="False"></ComboBox>
+                      IsEnabled="False" Margin="70,5,70,15"></ComboBox>
             <ListBox x:Name="FollowVariantsLB" Grid.Row="6" 
                      Grid.Column="1" Grid.RowSpan="2" 
-                     Height="80"
-                     Margin="15" SelectionChanged="FollowVariantsLB_SelectionChanged"
+                     Height="60" Width="150"
+                     SelectionChanged="FollowVariantsLB_SelectionChanged"
                      Visibility="Collapsed">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
@@ -108,7 +108,7 @@
                    Grid.Column="2" Grid.Row="6"/>
 
             <PasswordBox x:Name="PasswordTB" Grid.Column="3" 
-                         Grid.Row="5" VerticalContentAlignment="Center" Height="35" Margin="65,8,65,13"></PasswordBox>
+                         Grid.Row="5" VerticalContentAlignment="Center" Height="35" Margin="65,3,65,17"></PasswordBox>
             <TextBox x:Name="PasswordTBShow" Grid.Column="3" Grid.Row="5" 
                      VerticalContentAlignment="Center" Visibility="Hidden"></TextBox>
 

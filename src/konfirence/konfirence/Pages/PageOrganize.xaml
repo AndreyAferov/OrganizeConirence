@@ -56,7 +56,7 @@
                 <TextBlock FontWeight="Bold" FontSize="20" HorizontalAlignment="Center" Margin="0 0 0 20">
                     <Run Text="" x:Name="GenderText"></Run>
                     <Run Text="{Binding Surname}"></Run>
-                                        <Run Text="{Binding Name}"></Run>
+                    <Run Text="{Binding Name}"></Run>
                     <Run Text="{Binding Patronomic}"></Run>
 
                 </TextBlock>

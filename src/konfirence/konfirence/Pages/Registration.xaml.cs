@@ -35,37 +35,23 @@ namespace konfirence.Pages
         private void Init()
         {
             NewUser = new Data.Users();
-            RoleCB.ItemsSource = GetRoles();
-            SexCB.ItemsSource = GetSexes();
+            Role.ItemsSource = Data.KonfirenceEntities.GetContext().Roles.ToList();
+            Gender.ItemsSource = Data.KonfirenceEntities.GetContext().Gender.ToList();
             var users = Data.KonfirenceEntities.GetContext().Users.ToList();
             if (users.Any())
             {
-                IdNumberTB.Text = (users.Last().Id + 1).ToString();
+                IdNumber.Text = (users.Last().Id + 1).ToString();
             }
             else
             {
-                IdNumberTB.Text = "1";
+                IdNumber.Text = "1";
             }
             EventCB.IsEnabled = false;
             EventCB.ItemsSource = Data.KonfirenceEntities.GetContext().Event.ToList();
         }
 
-        private List<Data.Roles> GetRoles()
-        {
-            return new List<Data.Roles>
-            {
-                new Data.Roles { Name = "Выберите роль" },
-                new Data.Roles { Name = "Жюри" },
-                new Data.Roles { Name = "Модератор" }
-            };
-        }
 
-        private List<Data.Gender> GetSexes()
-        {
-            var sexes = Data.KonfirenceEntities.GetContext().Gender.ToList();
-            sexes.Insert(0, new Data.Gender { Gender1 = "Выберите пол" });
-            return sexes;
-        }
+
 
         private void OkButton_Click(object sender, RoutedEventArgs e)
         {
@@ -91,14 +77,14 @@ namespace konfirence.Pages
         private StringBuilder ValidateInputs()
         {
             StringBuilder sb = new StringBuilder();
-            string fio = FioTB.Text;
-            string email = EmailTB.Text;
-            string phone = PhoneTB.Text;
+            string fio = Fio.Text;
+            string email = Email.Text;
+            string phone = NumberPhone.Text;
             string password = GetPassword();
             string confirmPassword = GetConfirmPassword();
-            int selectedSex = SexCB.SelectedIndex;
-            int selectedRole = RoleCB.SelectedIndex;
-            string direction = DirectionTB.Text;
+            int selectedSex = Gender.SelectedIndex;
+            int selectedRole = Role.SelectedIndex;
+            string direction = Direction.Text;
 
             if (string.IsNullOrEmpty(fio)) sb.AppendLine("Заполните ФИО!");
             if (string.IsNullOrEmpty(email)) sb.AppendLine("Заполните Email!");
@@ -111,7 +97,11 @@ namespace konfirence.Pages
 
             return sb;
         }
-
+        private void ValidatePhone(string phone, StringBuilder sb)
+        {
+            if (CheckPhone(phone)) sb.AppendLine("Телефон не в формате +7(___)-___-__-__");
+            else NewUser.PhoneNumber = phone;
+        }
         private void ValidatePassword(string password, string confirmPassword, StringBuilder sb)
         {
             if (string.IsNullOrEmpty(password))
@@ -139,21 +129,9 @@ namespace konfirence.Pages
                     sb.AppendLine("Пароли не совпадают!");
             }
         }
+        private bool CheckPhone(string phone) => !Regex.IsMatch(phone, @"^\+7\(\d{3}\)-\d{3}-\d{2}-\d{2}$");
 
-        private void ValidatePhone(string phone, StringBuilder sb)
-        {
-            phone = phone.Replace(" ", "").Replace("-", "");
 
-            if (phone.Length != 11 || !phone.StartsWith("+7") || !phone.Substring(2).All(char.IsDigit))
-            {
-                sb.AppendLine("Телефон должен быть в формате +7 900 123 45 67");
-            }
-            else
-            {
-                string formattedPhone = $"+7 {phone.Substring(2, 3)} {phone.Substring(5, 3)} {phone.Substring(8, 2)} {phone.Substring(10, 2)}";
-                NewUser.PhoneNumber = formattedPhone;
-            }
-        }
 
 
         private void ValidateFio(string fio, StringBuilder sb)
@@ -172,14 +150,14 @@ namespace konfirence.Pages
         {
             try
             {
-                NewUser.Email = EmailTB.Text;
+                NewUser.Email = Email.Text;
                 NewUser.DateBirth = null;
                 NewUser.Country1 = null;
                 NewUser.Password = GetPassword();
-                NewUser.Gender = SexCB.SelectedIndex;
-                NewUser.Role = RoleCB.SelectedIndex;
+                NewUser.Gender = Gender.SelectedIndex;
+                NewUser.Role = Role.SelectedIndex;
 
-                var direction = DirectionTB.Text;
+                var direction = Direction.Text;
                 var directionList = Data.KonfirenceEntities.GetContext().Direction
                     .FirstOrDefault(i => i.Name == direction);
                 if (directionList == null)
@@ -197,16 +175,9 @@ namespace konfirence.Pages
                 Data.KonfirenceEntities.GetContext().Users.Add(NewUser);
                 Data.KonfirenceEntities.GetContext().SaveChanges();
             }
-            catch (System.Data.Entity.Validation.DbEntityValidationException ex)
-            {
-                var errorMessages = ex.EntityValidationErrors
-                    .SelectMany(x => x.ValidationErrors)
-                    .Select(x => $"Property: {x.PropertyName} Error: {x.ErrorMessage}");
-                MessageBox.Show(string.Join("\n", errorMessages), "Ошибка валидации!", MessageBoxButton.OK, MessageBoxImage.Error);
-            }
             catch (Exception ex)
             {
-                MessageBox.Show($"Общая ошибка: {ex.Message}", "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show($"Ошибка: {ex.Message}", "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
@@ -238,15 +209,12 @@ namespace konfirence.Pages
         private void AttachToEvent_Checked(object sender, RoutedEventArgs e) => EventCB.IsEnabled = true;
         private void AttachToEvent_Unchecked(object sender, RoutedEventArgs e) => EventCB.IsEnabled = false;
 
-        private bool CheckPhone(string phone) => !Regex.IsMatch(phone, @"^\+7\(\d{3}\)-\d{3}-\d{2}-\d{2}$");
-
-
         private void DirectionTB_GotKeyboardFocus(object sender, KeyboardFocusChangedEventArgs e) => FollowVariantsLB.Visibility = Visibility.Visible;
         private void DirectionTB_LostKeyboardFocus(object sender, KeyboardFocusChangedEventArgs e) => FollowVariantsLB.Visibility = Visibility.Hidden;
 
-        private void DirectionTB_TextChanged(object sender, TextChangedEventArgs e)
+        private void Direction_TextChanged(object sender, TextChangedEventArgs e)
         {
-            string text = DirectionTB.Text.ToLower();
+            string text = Direction.Text.ToLower();
             FollowVariantsLB.ItemsSource = Data.KonfirenceEntities.GetContext().Direction
                 .Where(d => d.Name.ToLower().Contains(text)).ToList();
         }
@@ -277,7 +245,7 @@ namespace konfirence.Pages
         {
             if (FollowVariantsLB.SelectedItem is Data.Direction selectedDirection)
             {
-                DirectionTB.Text = selectedDirection.Name;
+                Direction.Text = selectedDirection.Name;
             }
         }
 

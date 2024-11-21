@@ -1,4 +1,5 @@
-﻿using System;
+﻿using konfirence.Classes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,7 +28,7 @@ namespace konfirence.Pages
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
-
+            Manager.MainFrame.Navigate(new AutorizePage());
         }
     }
 }
