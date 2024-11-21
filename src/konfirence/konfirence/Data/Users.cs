@@ -38,9 +38,9 @@ namespace konfirence.Data
         public string PhoneNumber { get; set; }
         public string Password { get; set; }
         public string ImageName { get; set; }
-        public string Image { get; set; }
         public int Gender { get; set; }
         public int Role { get; set; }
+        public byte[] Image { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Activity> Activity { get; set; }

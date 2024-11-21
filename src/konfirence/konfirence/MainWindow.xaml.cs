@@ -14,6 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using konfirence.Classes;
 
 namespace konfirence
 {
@@ -28,5 +29,7 @@ namespace konfirence
             Manager.MainFrame = MainFrame;
             Manager.MainFrame.Navigate(new StartPage());
         }
+
+
     }
 }

@@ -118,9 +118,9 @@
           <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
           <ScalarProperty Name="Password" ColumnName="Password" />
           <ScalarProperty Name="ImageName" ColumnName="ImageName" />
-          <ScalarProperty Name="Image" ColumnName="Image" />
           <ScalarProperty Name="Gender" ColumnName="Gender" />
           <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

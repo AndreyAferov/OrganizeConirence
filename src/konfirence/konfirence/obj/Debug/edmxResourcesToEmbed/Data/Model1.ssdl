@@ -40,7 +40,7 @@
     <Key>
       <PropertyRef Name="Id" />
     </Key>
-    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
   </EntityType>
   <EntityType Name="Event">
@@ -96,7 +96,7 @@
     <Key>
       <PropertyRef Name="Id" />
     </Key>
-    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Surname" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Patronomic" Type="nvarchar" MaxLength="50" Nullable="false" />
@@ -106,11 +106,11 @@
     <Property Name="DirectionName" Type="int" />
     <Property Name="Event" Type="int" />
     <Property Name="PhoneNumber" Type="nchar" MaxLength="80" Nullable="false" />
-    <Property Name="Password" Type="nchar" MaxLength="180" Nullable="false" />
-    <Property Name="ImageName" Type="nchar" MaxLength="80" Nullable="false" />
-    <Property Name="Image" Type="nchar" MaxLength="80" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ImageName" Type="nchar" MaxLength="80" />
     <Property Name="Gender" Type="int" Nullable="false" />
     <Property Name="Role" Type="int" Nullable="false" />
+    <Property Name="Image" Type="image" />
   </EntityType>
   <Association Name="FK_Activity_Events">
     <End Role="Events" Type="Self.Events" Multiplicity="1" />

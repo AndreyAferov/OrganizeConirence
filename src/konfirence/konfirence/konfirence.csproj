@@ -73,6 +73,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Classes\Captha.cs" />
+    <Compile Include="Classes\Class1.cs" />
     <Compile Include="Classes\DisplayEvent.cs" />
     <Compile Include="Classes\Manager.cs" />
     <Compile Include="Data\Activity.cs">
@@ -131,11 +132,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\PageJury.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Pages\PageModarator.xaml">
+    <Page Include="Pages\Other.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -143,7 +140,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Pages\PageUser.xaml">
+    <Page Include="Pages\Registration.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -156,17 +153,14 @@
     <Compile Include="Pages\AutorizePage.xaml.cs">
       <DependentUpon>AutorizePage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\PageJury.xaml.cs">
-      <DependentUpon>PageJury.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\PageModarator.xaml.cs">
-      <DependentUpon>PageModarator.xaml</DependentUpon>
+    <Compile Include="Pages\Other.xaml.cs">
+      <DependentUpon>Other.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\PageOrganize.xaml.cs">
       <DependentUpon>PageOrganize.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\PageUser.xaml.cs">
-      <DependentUpon>PageUser.xaml</DependentUpon>
+    <Compile Include="Pages\Registration.xaml.cs">
+      <DependentUpon>Registration.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\StartPage.xaml.cs">
       <DependentUpon>StartPage.xaml</DependentUpon>
@@ -216,6 +210,7 @@
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
     <Content Include="Resources\1.jpg" />
+    <Resource Include="Resources\Placeholder.png" />
     <Resource Include="Resources\10.jpg" />
     <Resource Include="Resources\11.jpg" />
     <Resource Include="Resources\12.jpg" />

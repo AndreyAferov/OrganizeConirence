@@ -81,3 +81,12 @@ C:\Users\Андрей\Desktop\Организация_конференций_2023
 C:\Users\Андрей\Desktop\Организация_конференций_2023\Вариант 2\konfirence\konfirence\obj\Debug\Pages\PageJury.baml
 C:\Users\Андрей\Desktop\Организация_конференций_2023\Вариант 2\konfirence\konfirence\obj\Debug\Pages\PageModarator.baml
 C:\Users\Андрей\Desktop\Организация_конференций_2023\Вариант 2\konfirence\konfirence\obj\Debug\Pages\PageOrganize.baml
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\Pages\AutorizePage.g.cs
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\Pages\Other.g.cs
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\Pages\PageOrganize.g.cs
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\App.baml
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\Pages\AutorizePage.baml
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\Pages\Other.baml
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\Pages\PageOrganize.baml
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\Pages\Registration.g.cs
+C:\Users\Андрей\Desktop\Kon\OrganizeConirence\src\konfirence\konfirence\obj\Debug\Pages\Registration.baml

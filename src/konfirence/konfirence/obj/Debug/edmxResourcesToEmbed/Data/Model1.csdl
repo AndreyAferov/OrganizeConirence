@@ -50,7 +50,7 @@
     <Key>
       <PropertyRef Name="Id" />
     </Key>
-    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <NavigationProperty Name="Users" Relationship="Self.FK_General_Direction" FromRole="Direction" ToRole="Users" />
   </EntityType>
@@ -114,7 +114,7 @@
     <Key>
       <PropertyRef Name="Id" />
     </Key>
-    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Patronomic" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
@@ -124,11 +124,11 @@
     <Property Name="DirectionName" Type="Int32" />
     <Property Name="Event" Type="Int32" />
     <Property Name="PhoneNumber" Type="String" MaxLength="80" FixedLength="true" Unicode="true" Nullable="false" />
-    <Property Name="Password" Type="String" MaxLength="180" FixedLength="true" Unicode="true" Nullable="false" />
-    <Property Name="ImageName" Type="String" MaxLength="80" FixedLength="true" Unicode="true" Nullable="false" />
-    <Property Name="Image" Type="String" MaxLength="80" FixedLength="true" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ImageName" Type="String" MaxLength="80" FixedLength="true" Unicode="true" />
     <Property Name="Gender" Type="Int32" Nullable="false" />
     <Property Name="Role" Type="Int32" Nullable="false" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
     <NavigationProperty Name="Activity" Relationship="Self.FK_Activity_General" FromRole="Users" ToRole="Activity" />
     <NavigationProperty Name="Activity1" Relationship="Self.FK_Activity_General1" FromRole="Users" ToRole="Activity" />
     <NavigationProperty Name="Activity2" Relationship="Self.FK_Activity_General2" FromRole="Users" ToRole="Activity" />

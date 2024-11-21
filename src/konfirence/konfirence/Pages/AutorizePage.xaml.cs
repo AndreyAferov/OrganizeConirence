@@ -77,16 +77,16 @@ namespace konfirence.Pages
                 switch(user.Roles.Name)
                 {
                     case "Жюри":
-                        Manager.MainFrame.Navigate(new PageJury());
+                       Manager.MainFrame.Navigate(new Other());
                         break;
                     case "Модераторы":
-                        Manager.MainFrame.Navigate(new PageModarator());
+                       Manager.MainFrame.Navigate(new Other());
                         break;
                     case "Организаторы":
-                        Manager.MainFrame.Navigate(new PageOrganize());
+                        Manager.MainFrame.Navigate(new PageOrganize(user));
                         break;
                     case "Участники":
-                        Manager.MainFrame.Navigate(new PageUser());
+                        Manager.MainFrame.Navigate(new Other());
                         break;
                 }
             }

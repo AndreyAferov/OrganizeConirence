@@ -1,70 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\pages\\autorizepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\autorizepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\pages\\autorizepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\autorizepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\\u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0432\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\pages\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\classes\\captha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\classes\\captha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\classes\\displayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\classes\\displayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\pages\\pagemodarator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\pagemodarator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\pages\\pagejury.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\pagejury.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\pages\\pageorganize.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\pageorganize.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\pages\\pageuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\pageuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kon\\organizeconirence\\src\\konfirence\\konfirence\\pages\\autorizepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\autorizepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\pages\\pageorganize.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\pageorganize.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\pages\\pageorganize.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\pageorganize.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\pages\\other.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\other.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\pages\\other.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\other.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\classes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\classes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\classes\\displayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\classes\\displayevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\pages\\autorizepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3576F713-FF1E-4E35-A4EF-A7ECF162D47C}|konfirence\\konfirence.csproj|solutionrelative:konfirence\\pages\\autorizepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,192 +98,218 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutorizePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\AutorizePage.xaml.cs",
-              "RelativeDocumentMoniker": "konfirence\\Pages\\AutorizePage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\AutorizePage.xaml.cs",
-              "RelativeToolTip": "konfirence\\Pages\\AutorizePage.xaml.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAkwHgAAABEAAAA",
+              "DocumentIndex": 10,
+              "Title": "Other.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\Other.xaml",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\Other.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\Other.xaml",
+              "RelativeToolTip": "konfirence\\Pages\\Other.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T10:37:37.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Other.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\Other.xaml.cs",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\Other.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\Other.xaml.cs",
+              "RelativeToolTip": "konfirence\\Pages\\Other.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T08:17:07.671Z",
+              "WhenOpened": "2024-11-20T10:56:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageOrganize.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\PageOrganize.xaml.cs",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\PageOrganize.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\PageOrganize.xaml.cs",
+              "RelativeToolTip": "konfirence\\Pages\\PageOrganize.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAIAwwEwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:59:46.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\Registration.xaml.cs",
+              "RelativeToolTip": "konfirence\\Pages\\Registration.xaml.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAIA/wP8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:34:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorizePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\AutorizePage.xaml.cs",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\AutorizePage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\AutorizePage.xaml.cs",
+              "RelativeToolTip": "konfirence\\Pages\\AutorizePage.xaml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAWwFgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:32:23.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\Registration.xaml",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\Registration.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\Registration.xaml",
+              "RelativeToolTip": "konfirence\\Pages\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T17:32:59.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\App.config",
+              "RelativeDocumentMoniker": "konfirence\\App.config",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\App.config",
+              "RelativeToolTip": "konfirence\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T12:17:35.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\App.xaml",
+              "RelativeDocumentMoniker": "konfirence\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\App.xaml",
+              "RelativeToolTip": "konfirence\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T12:17:34.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Captha.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Classes\\Captha.cs",
-              "RelativeDocumentMoniker": "konfirence\\Classes\\Captha.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Classes\\Captha.cs",
-              "RelativeToolTip": "konfirence\\Classes\\Captha.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAADwv08AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:14:32.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AutorizePage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\AutorizePage.xaml",
-              "RelativeDocumentMoniker": "konfirence\\Pages\\AutorizePage.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\AutorizePage.xaml",
-              "RelativeToolTip": "konfirence\\Pages\\AutorizePage.xaml",
+              "Title": "PageOrganize.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\PageOrganize.xaml",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\PageOrganize.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\PageOrganize.xaml",
+              "RelativeToolTip": "konfirence\\Pages\\PageOrganize.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T08:02:47.46Z",
+              "WhenOpened": "2024-11-20T10:56:50.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Model1.Context.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Data\\Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Data\\Model1.Context.cs",
               "RelativeDocumentMoniker": "konfirence\\Data\\Model1.Context.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Data\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Data\\Model1.Context.cs",
               "RelativeToolTip": "konfirence\\Data\\Model1.Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:12:21.289Z"
+              "WhenOpened": "2024-11-20T19:25:31.888Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\App.config",
-              "RelativeDocumentMoniker": "konfirence\\App.config",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\App.config",
-              "RelativeToolTip": "konfirence\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-06T12:56:53.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StartPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\StartPage.xaml.cs",
-              "RelativeDocumentMoniker": "konfirence\\Pages\\StartPage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\StartPage.xaml.cs",
-              "RelativeToolTip": "konfirence\\Pages\\StartPage.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwHUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:21:55.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DisplayEvent.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Classes\\DisplayEvent.cs",
-              "RelativeDocumentMoniker": "konfirence\\Classes\\DisplayEvent.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Classes\\DisplayEvent.cs",
-              "RelativeToolTip": "konfirence\\Classes\\DisplayEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:40:38.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StartPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\StartPage.xaml",
-              "RelativeDocumentMoniker": "konfirence\\Pages\\StartPage.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\StartPage.xaml",
-              "RelativeToolTip": "konfirence\\Pages\\StartPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T08:03:07.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "konfirence\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\MainWindow.xaml",
-              "RelativeToolTip": "konfirence\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-05T07:58:23.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\App.xaml",
-              "RelativeDocumentMoniker": "konfirence\\App.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\App.xaml",
-              "RelativeToolTip": "konfirence\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T08:05:11.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PageModarator.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\PageModarator.xaml",
-              "RelativeDocumentMoniker": "konfirence\\Pages\\PageModarator.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\PageModarator.xaml",
-              "RelativeToolTip": "konfirence\\Pages\\PageModarator.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T09:19:34.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PageJury.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\PageJury.xaml",
-              "RelativeDocumentMoniker": "konfirence\\Pages\\PageJury.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\PageJury.xaml",
-              "RelativeToolTip": "konfirence\\Pages\\PageJury.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T09:19:58.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PageOrganize.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\PageOrganize.xaml",
-              "RelativeDocumentMoniker": "konfirence\\Pages\\PageOrganize.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\PageOrganize.xaml",
-              "RelativeToolTip": "konfirence\\Pages\\PageOrganize.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T09:18:19.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Classes\\Manager.cs",
-              "RelativeDocumentMoniker": "konfirence\\Classes\\Manager.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Classes\\Manager.cs",
-              "RelativeToolTip": "konfirence\\Classes\\Manager.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAD4vxEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:01:52.153Z"
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "konfirence\\Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Data\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "konfirence\\Data\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-20T19:23:14.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "PageUser.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\PageUser.xaml",
-              "RelativeDocumentMoniker": "konfirence\\Pages\\PageUser.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\Pages\\PageUser.xaml",
-              "RelativeToolTip": "konfirence\\Pages\\PageUser.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T09:02:52.738Z"
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Classes\\Class1.cs",
+              "RelativeDocumentMoniker": "konfirence\\Classes\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Classes\\Class1.cs",
+              "RelativeToolTip": "konfirence\\Classes\\Class1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:10:50.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "konfirence\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\MainWindow.xaml.cs",
+              "RelativeToolTip": "konfirence\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:20:27.483Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "konfirence\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F_\u043A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0439_2023\\\u0412\u0430\u0440\u0438\u0430\u043D\u0442 2\\konfirence\\konfirence\\MainWindow.xaml.cs",
-              "RelativeToolTip": "konfirence\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Title": "StartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\StartPage.xaml.cs",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\StartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\StartPage.xaml.cs",
+              "RelativeToolTip": "konfirence\\Pages\\StartPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAWwB4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T07:58:21.288Z"
+              "WhenOpened": "2024-11-20T12:21:17.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "konfirence\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\MainWindow.xaml",
+              "RelativeToolTip": "konfirence\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T13:39:08.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "konfirence\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Classes\\Manager.cs",
+              "RelativeToolTip": "konfirence\\Classes\\Manager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:33:50.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutorizePage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\AutorizePage.xaml",
+              "RelativeDocumentMoniker": "konfirence\\Pages\\AutorizePage.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Pages\\AutorizePage.xaml",
+              "RelativeToolTip": "konfirence\\Pages\\AutorizePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T11:03:55.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DisplayEvent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Classes\\DisplayEvent.cs",
+              "RelativeDocumentMoniker": "konfirence\\Classes\\DisplayEvent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\Kon\\OrganizeConirence\\src\\konfirence\\konfirence\\Classes\\DisplayEvent.cs",
+              "RelativeToolTip": "konfirence\\Classes\\DisplayEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:41:04.59Z"
             }
           ]
         }

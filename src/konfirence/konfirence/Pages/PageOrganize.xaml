@@ -10,6 +10,73 @@
       Background="White">
 
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="440"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Окно Организатора" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="20"></TextBlock>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="220"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5.5*"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Column="0" Grid.Row="0" 
+                        VerticalAlignment="Center" HorizontalAlignment="Center"
+                        Margin="45">
+                <Border>
+                    <Image>
+                        <Image.Source>
+                            <Binding Path="Image">
+                                <Binding.TargetNullValue>
+                                    <BitmapImage UriSource="/Resources/Placeholder.png"/>
+                                </Binding.TargetNullValue>
+                            </Binding>
+                        </Image.Source>
+                    </Image>
+                </Border>
+            </StackPanel>
+
+            <Button VerticalAlignment="Top" Grid.Column="0" 
+                    Width="200" Height="100" 
+                    Content="Мой профиль" FontSize="18" HorizontalAlignment="Left" Margin="20,330,0,0" Grid.RowSpan="2">
+            </Button>
+
+            <StackPanel Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="100,0,0,0">
+                <TextBlock x:Name="HelloText" Margin="10" HorizontalAlignment="Center"
+                           FontWeight="Bold" FontSize="20"></TextBlock>
+                <TextBlock FontWeight="Bold" FontSize="20" HorizontalAlignment="Center" Margin="0 0 0 20">
+                    <Run Text="" x:Name="GenderText"></Run>
+                    <Run Text="{Binding Surname}"></Run>
+                                        <Run Text="{Binding Name}"></Run>
+                    <Run Text="{Binding Patronomic}"></Run>
+
+                </TextBlock>
+                <Button Content="Мероприятия" x:Name="EventsButton" Click="EventsButton_Click"
+                        Height="80" Width="350">
+                </Button>
+                <Button Content="Участники" x:Name="ParticipantsButton" Click="ParticipantsButton_Click"
+                        Height="80" Width="350" Margin="6">
+                </Button>
+                <Button Content="Жюри" x:Name="JuriesButton" Click="JuriesButton_Click"
+                        Height="80" Width="350">
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Button x:Name="RegJuryModButton" Grid.Row="2" 
+                Width="250" Height="40" Content="Регистрация жюри/модератора" 
+                Click="RegJuryModButton_Click" Margin="552,0,0,0" 
+                HorizontalAlignment="Left"></Button>
+        <Button x:Name="BackButton" Content="Назад"
+               Click="BackButton_Click" HorizontalAlignment="Left" 
+                Width="205" Height="40" Grid.Row="2" Margin="226,0,0,0"/>
     </Grid>
 </Page>
